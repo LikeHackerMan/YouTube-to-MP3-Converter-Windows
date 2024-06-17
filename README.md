@@ -4,7 +4,7 @@ This is a Youtube to MP3 converter for Windows, works for Youtube and Youtube Mu
 
 # Installation
 
-This Youtube to MP3 converter will require FFMPEG which you can install [here](https://ffmpeg.org/download.html), I would recommend you to watch [this](https://www.youtube.com/watch?v=r1AtmY-RMyQ) YouTube video for installing FFMPEG for Windows, but if you already have FFMPEG installed and added to path then you don't need to worry. I will recommend to use Python 3.10.6 which you can install [here](https://www.python.org/downloads/release/python-3106/), you will need a python module also called yt_dlp which you can install with the code below. And enjoy!
+This Youtube to MP3 converter will require FFMPEG which you can install [here](https://ffmpeg.org/download.html), I would recommend you to watch [this](https://www.youtube.com/watch?v=r1AtmY-RMyQ) YouTube video for installing FFMPEG for Windows, but if you already have FFMPEG installed and added to path then you don't need to worry. I will recommend to use Python 3.10.6 which you can install [here](https://www.python.org/downloads/release/python-3106/), and you will need a Python module called "yt_dlp" which you can install with the code below. And enjoy!
 
 ```
 pip install yt_dlp
