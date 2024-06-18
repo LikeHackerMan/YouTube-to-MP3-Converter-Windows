@@ -27,7 +27,7 @@ Feel free to make any suggestions and I will take them into consideration
 
 # Known Bugs
 
-- After downloading it will say that it failed to download the MP3 even though all MP3/s have been downloaded successfully
+- None
 
 
 
